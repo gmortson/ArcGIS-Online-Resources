@@ -34,6 +34,7 @@
 1. [ArcGIS Rest API](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#//02r300000054000000)
 1. [Esri Github](https://github.com/Esri)
 1. [ArcGIS Online Admin Wiki - Tools](https://github.com/Esri/ago-admin-wiki/wiki/Tools)
+1. [Web AppBuilder for ArcGIS - Custom Widgets](https://geonet.esri.com/thread/119278)
 
 ## Additional ArcGIS Resource Compilations
 1. [ArcGIS Online Admin Wiki - Resources](https://github.com/Esri/ago-admin-wiki/wiki/Resources)
